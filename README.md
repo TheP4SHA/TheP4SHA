@@ -1,134 +1,94 @@
-💻 P4SHA – Software & Web Developer
-🌐 Web Developer • 🎓 Computer Programming Student • 🤖 AI & Image Processing Enthusiast
+# Mehmet Ali Avcı (P4SHA)
 
-Hi! I'm Pasha, a passionate developer focused on web technologies, software development, basic AI, and image processing.
-I enjoy creating clean interfaces, building backend systems, and developing automation scripts that make life easier.
-My long-term ambition is to found my own global-scale software company and become an influential figure in the tech world.
+Software Engineer focused on backend systems, distributed architectures and enterprise IT platforms.
 
-🌍 Connect With Me
+I enjoy transforming ideas into production-ready software rather than building simple CRUD applications. My recent work focuses on endpoint management systems, real-time infrastructures, AI-assisted applications and scalable SaaS products.
 
-LinkedIn: linkedin.com/in/p4sha
+Currently building software under **Pasha Core**.
 
-GitHub: github.com/TheP4SHA
+---
 
-🎓 Education
+## Current Focus
 
-Osmaniye Korkut Ata University
-Computer Programming (2024 – 2026)
+• Distributed Systems
+• Backend Engineering
+• Endpoint Management Platforms
+• Real-Time Infrastructure
+• SaaS Products
+• AI-powered Applications
 
-💼 Experience
+---
 
-Pasha Lab – Web Developer (Self-Employed)
-Apr 2023 – Present · Remote · Türkiye
+## Featured Projects
 
-Working on various web projects, frontend structures, and functional backend systems. I also experiment with simple AI models, image processing workflows, and script development.
+### 🖥️ POps (Pasha Operations Platform)
 
-🧠 Skills
-Frontend
+Enterprise endpoint management platform designed for educational institutions and IT departments.
 
-HTML, CSS, JavaScript
+- Real-time device monitoring
+- OTA agent updates
+- Device inventory
+- Remote orchestration
+- Role-based access control
+- Immutable audit logs
+- Transparent remote assistance
 
-Backend
+(Currently under active development)
 
-Java (Beginner Level)
+---
 
-PHP (Beginner Level)
+### 🤖 MistikAI
 
-AI & Processing
+Hybrid AI Campus Assistant combining:
 
-Basic Artificial Intelligence
+- Rule-based Engine
+- Custom BERT Intent Recognition
+- LLM Integration
+- Visual Flow Builder
+- Modular Architecture
 
-Image Processing
+---
 
-Other
+### 📝 Exam Platform
 
-Script Development
+Commercial SaaS platform developed for a third-party customer.
 
-Problem Solving
+- Question Bank
+- Online Exams
+- Reporting
+- User Management
 
-Basic Firewall & Network Security
+---
 
-📜 Certifications
-Patika.dev
-
-Beginner Level Frontend Web Development Path (2025)
-
-Beginner Level Java Backend Development Path (2025)
-
-Beginner Level PHP Backend Development Path (2025)
-
-Fortinet Firewall Essentials (2025)
-
-🚀 About Me
-
-I am a Computer Programming student with a strong foundation in software development, web design, and problem solving.
-I consistently aim to learn modern technologies and convert ideas into real, functional products.
-Motivated, solution-oriented, and eager to collaborate with teams to build meaningful digital experiences.
-
-<---------------------------------------------------------------------------------------------------------------------------------------------------------->
-🇹🇷 P4SHA – Yazılım & Web Geliştirici
-🌐 Web Geliştirici • 🎓 Bilgisayar Programcılığı Öğrencisi • 🤖 Yapay Zeka & Görüntü İşleme Meraklısı
-
-Merhaba! Ben Pasha, yazılım geliştirme, web teknolojileri, temel yapay zeka ve görüntü işleme alanlarında kendini geliştiren bir geliştiriciyim.
-Modern web arayüzleri, fonksiyonel backend yapıları ve otomasyon script’leri geliştirmeyi seviyorum.
-Uzun vadeli hedefim, kendi global yazılım şirketimi kurmak ve teknoloji dünyasında etkili bir profesyonel olmak.
-
-🌍 Bağlantılar
-
-LinkedIn: linkedin.com/in/p4sha
-
-GitHub: github.com/TheP4SHA
-
-🎓 Eğitim
-
-Osmaniye Korkut Ata Üniversitesi
-Bilgisayar Programcılığı (2024 – 2026)
-
-💼 Deneyim
-
-Pasha Lab – Web Geliştirici (Kendi İşim)
-Nisan 2023 – Devam Ediyor · Uzaktan · Türkiye
-
-Web projeleri, frontend yapılar, backend geliştirme, temel yapay zeka denemeleri, görüntü işleme süreçleri ve script geliştirme üzerine çalışmalar yapıyorum.
-
-🧠 Yetenekler
-Frontend
-
-HTML, CSS, JavaScript
+## Tech Stack
 
 Backend
 
-Java (Başlangıç)
+- Python
+- PHP
+- C#
+- MySQL
+- SQLite
+- REST APIs
+- WebSocket
 
-PHP (Başlangıç)
+Frontend
 
-Yapay Zeka & İşleme
+- JavaScript
+- HTML
+- CSS
 
-Temel Yapay Zeka
+Architecture
 
-Görüntü İşleme
+- Distributed Systems
+- System Design
+- Software Architecture
+- RBAC
+- Real-Time Communication
 
-Diğer
+---
 
-Script Geliştirme
+## Contact
 
-Problem Çözme
-
-Temel Güvenlik Duvarı & Ağ Güvenliği
-
-📜 Sertifikalar
-Patika.dev
-
-Frontend Web Development (2025)
-
-Java ile Backend Web Development (2025)
-
-PHP ile Backend Web Development (2025)
-
-Fortinet Güvenlik Duvarı Temelleri ( 2025)
-
-🚀 Hakkımda
-
-Yazılım geliştirme ve web tasarımı alanlarında güçlü bir temele sahibim.
-Yeni teknolojileri öğrenmeye hevesli, ekip çalışmasına uyumlu ve motivasyonu yüksek bir geliştiriciyim.
-Hedefim, öğrendiklerimi gerçek projelere aktararak global çapta etkili işler ortaya koymak.
+LinkedIn
+github.com/TheP4SHA
