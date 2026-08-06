@@ -92,7 +92,9 @@ Built as a lightweight alternative to heavy framework-dependent social apps. Use
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheP4SHA&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheP4SHA&theme=github)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheP4SHA&theme=github)&nbsp;&nbsp;![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheP4SHA&theme=github)
 
 </div>
 
