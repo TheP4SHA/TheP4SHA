@@ -92,9 +92,9 @@ Built as a lightweight alternative to heavy framework-dependent social apps. Use
 
 <div align="center">
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheP4SHA&theme=github)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TheP4SHA&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/TheP4SHA)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheP4SHA&theme=github)&nbsp;&nbsp;![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheP4SHA&theme=github)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheP4SHA&layout=compact&hide_border=true&theme=default)](https://github.com/TheP4SHA)
 
 </div>
 
