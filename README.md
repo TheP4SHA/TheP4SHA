@@ -62,6 +62,18 @@ A production-ready, single-file PHP URL shortener you can deploy in minutes on a
 
 ---
 
+### [ÇakBiTık / Take a Tap](https://github.com/TheP4SHA/Take-a-Tap)
+> Modern, fast and secure social platform & dating web application.
+
+Built as a lightweight alternative to heavy framework-dependent social apps. Uses a custom MVC-inspired architecture with vanilla PHP and Tailwind CSS — no bloat, blazing fast load times, and a clean UI across all devices. Features smart matching, real-time chat, profile galleries, and a full admin moderation dashboard.
+
+**Stack:** `PHP 8` · `MySQL` · `Tailwind CSS`
+
+[![Stars](https://img.shields.io/github/stars/TheP4SHA/Take-a-Tap?style=flat-square&logo=github)](https://github.com/TheP4SHA/Take-a-Tap/stargazers)
+[![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://github.com/TheP4SHA/Take-a-Tap/blob/main/LICENSE)
+
+---
+
 ## 🧰 Tech Stack
 
 | Area | Technologies |
