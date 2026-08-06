@@ -1,94 +1,93 @@
-# Mehmet Ali Avcı (P4SHA)
+<div align="center">
 
-Software Engineer focused on backend systems, distributed architectures and enterprise IT platforms.
+# Mehmet Ali Avcı · P4SHA
 
-I enjoy transforming ideas into production-ready software rather than building simple CRUD applications. My recent work focuses on endpoint management systems, real-time infrastructures, AI-assisted applications and scalable SaaS products.
+**Software Engineer · Open Source Builder · Transparent by Design**
 
-Currently building software under **Pasha Core**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-p4sha-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/p4sha/)
+[![GitHub](https://img.shields.io/badge/GitHub-TheP4SHA-181717?style=flat-square&logo=github)](https://github.com/TheP4SHA)
+[![Pasha Core](https://img.shields.io/badge/Organization-PashaCore-2563EB?style=flat-square&logo=github)](https://github.com/PashaCore)
 
----
-
-## Current Focus
-
-• Distributed Systems
-• Backend Engineering
-• Endpoint Management Platforms
-• Real-Time Infrastructure
-• SaaS Products
-• AI-powered Applications
+</div>
 
 ---
 
-## Featured Projects
+I build backend systems, real-time infrastructures, and open-source platforms that are designed to be understood — not just used.
 
-### 🖥️ POps (Pasha Operations Platform)
+Currently focused on endpoint management, AI-assisted tooling, and scalable SaaS products under **[Pasha Core](https://github.com/PashaCore)**.
 
-Enterprise endpoint management platform designed for educational institutions and IT departments.
-
-- Real-time device monitoring
-- OTA agent updates
-- Device inventory
-- Remote orchestration
-- Role-based access control
-- Immutable audit logs
-- Transparent remote assistance
-
-(Currently under active development)
+My strongest belief as an engineer: systems should be transparent. Users deserve to know when tools are being used on them.
 
 ---
 
-### 🤖 MistikAI
+## 🔨 What I'm Building
 
-Hybrid AI Campus Assistant combining:
+### [POps — Pasha Operations Platform](https://github.com/PashaCore/POps)
+> Open-source endpoint operations platform for schools, IT teams, and managed environments.
 
-- Rule-based Engine
-- Custom BERT Intent Recognition
-- LLM Integration
-- Visual Flow Builder
-- Modular Architecture
+The flagship project. After months of building a Rust-based agent that worked on paper but cracked under real-world enterprise Windows environments, I made the painful call to scrap everything and rebuild from scratch.
 
----
+The result: a **Transparent by Design** endpoint management platform where administrators get powerful tools, and users always know when those tools are being used.
 
-### 📝 Exam Platform
+**Stack:** `.NET 8` · `Python FastAPI` · `WebSockets` · `PHP 8` · `PostgreSQL`
 
-Commercial SaaS platform developed for a third-party customer.
+```
+Dashboard (PHP 8) → FastAPI Backend → WebSocket Hub → .NET 8 Agent (Windows)
+```
 
-- Question Bank
-- Online Exams
-- Reporting
-- User Management
+[![Stars](https://img.shields.io/github/stars/PashaCore/POps?style=flat-square&logo=github)](https://github.com/PashaCore/POps/stargazers)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue?style=flat-square)](https://github.com/PashaCore/POps/blob/main/LICENSE)
+[![Status](https://img.shields.io/badge/status-alpha-F59E0B?style=flat-square)](https://github.com/PashaCore/POps/releases)
 
 ---
 
-## Tech Stack
+### [MistikAI](https://github.com/TheP4SHA/MistikAI)
+> 3-Layer Hybrid Campus Assistant with Rule-Based, BERT, and LLM integration.
 
-Backend
+A campus AI assistant that doesn't just rely on one model. It uses a hybrid pipeline: simple intents hit a rule engine, recognized patterns go to a custom-trained BERT model, and everything else escalates to an LLM (Groq). 
 
-- Python
-- PHP
-- C#
-- MySQL
-- SQLite
-- REST APIs
-- WebSocket
+**Stack:** `PHP` · `Python` · `BERT` · `Groq LLM` · `MySQL`
 
-Frontend
-
-- JavaScript
-- HTML
-- CSS
-
-Architecture
-
-- Distributed Systems
-- System Design
-- Software Architecture
-- RBAC
-- Real-Time Communication
+[![Stars](https://img.shields.io/github/stars/TheP4SHA/MistikAI?style=flat-square&logo=github)](https://github.com/TheP4SHA/MistikAI/stargazers)
+[![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://github.com/TheP4SHA/MistikAI/blob/main/LICENSE)
 
 ---
 
-## Contact
+### [pkisalt](https://github.com/TheP4SHA/pkisalt)
+> Advanced self-hosted URL shortener with Admin Panel, Analytics & User Roles.
 
-LinkedIn
-github.com/TheP4SHA
+A production-ready, single-file PHP URL shortener you can deploy in minutes on any shared hosting. Includes click analytics, role-based admin panel, and a clean management interface.
+
+**Stack:** `PHP` · `MySQL`
+
+---
+
+## 🧰 Tech Stack
+
+| Area | Technologies |
+|:---|:---|
+| **Backend** | Python, PHP 8, C# (.NET 8) |
+| **Real-Time** | WebSockets, FastAPI, Uvicorn |
+| **Database** | PostgreSQL, MySQL, SQLite |
+| **Agent / Systems** | Windows API, .NET Worker Services |
+| **AI / ML** | BERT, Groq LLM, Rule-based NLP |
+| **Frontend** | Vanilla JS, HTML5, CSS Custom Properties |
+| **Architecture** | Distributed Systems, RBAC, Event-driven |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheP4SHA&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+</div>
+
+---
+
+## 📬 Contact
+
+- **LinkedIn:** [linkedin.com/in/p4sha](https://www.linkedin.com/in/p4sha/)
+- **Organization:** [github.com/PashaCore](https://github.com/PashaCore)
+- **GitHub:** [github.com/TheP4SHA](https://github.com/TheP4SHA)
